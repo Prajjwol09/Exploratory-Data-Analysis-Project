@@ -1,4 +1,6 @@
 Exploratory Data Analysis (EDA)
+
+
 Overview:
 This project involves conducting an Exploratory Data Analysis (EDA) on a 'layoffs' dataset using MySQL Workbench. The primary goal is to explore the dataset, uncover patterns, and derive insights that can help understand the underlying factors contributing to layoffs across various sectors.
 
